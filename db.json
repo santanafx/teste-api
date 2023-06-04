@@ -1,0 +1,6 @@
+{
+  "dataBase": [
+    { "nome": "lucas", "idade": 34 },
+    { "nome": "Rafael", "idade": 38 }
+  ]
+}
